@@ -46,6 +46,7 @@ nav {
     position: absolute;
     padding: 7px;
     font-size: 0.9em;
+    margin: left;
 }
 
 body {
