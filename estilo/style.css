@@ -1,7 +1,11 @@
 @charset "UTF-8";
 @font-face {
     font-family:['idroid'] ;
-    src: url(fontes/idroid.otf);
+    src: url(fontes/idroid.otf)
+    url(fontes/IDroid.svg)
+    url(fontes/IDroid.ttf)
+    url(fontes/IDroid.woff)
+    url(fontes/IDroid.eot);
 }
 
 header {
