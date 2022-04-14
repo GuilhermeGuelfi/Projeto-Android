@@ -8,6 +8,7 @@ header {
     background-image: linear-gradient(to top, #1a5c38,#3BD27F);
     text-align: center;
     padding: 30px;
+    padding-left: 0px;
     margin-bottom: -21px;
     height: 150px;
     box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.284);
@@ -45,8 +46,8 @@ nav {
     margin-top: 45px;
     position: absolute;
     padding: 7px;
+    padding-left: 0px;
     font-size: 0.9em;
-    margin: left;
 }
 
 body {
